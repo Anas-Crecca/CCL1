@@ -4,6 +4,8 @@
 [Play it here!](https://anas-crecca.github.io/CCL1/)
 
 ---
+##Developement
+An old project made in 2 weeks for my first Codelab using Javascript. It has a lot of issues that i'll get around to fixing one day (hopefully).
 
 ## Gamplay & Story
 You're an employee at the Froggenheim Art Gallery who accidently activated the security system, shredding prieceless pieces of art. As a result you've been tasked with putting the paintings back together.
