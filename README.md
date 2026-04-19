@@ -4,7 +4,7 @@
 [Play it here!](https://anas-crecca.github.io/CCL1/)
 
 ---
-##Developement
+## Developement
 An old project made in 2 weeks for my first Codelab using Javascript. It has a lot of issues that i'll get around to fixing one day (hopefully).
 
 ## Gamplay & Story
